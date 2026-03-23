@@ -16,4 +16,5 @@ global infrastructure,which allows businesses to deploy applications in minutes 
 for data warehousing and Google Kubernates Engine(GKE) for managing containerized apps.Since Google uses the same infrastructure for its search engine
 and YouTube,GCP offers incredible speed and high-performance networking capabilities that are often more cost-effective for data-heavy projects.
 
-
+3.Managed setup for AWS Elastic Beanstalk
+I set up an environment using AWS Elastic Beanstalk,which handlesdeployment,capacity provisioning,and load balancing automatically.
